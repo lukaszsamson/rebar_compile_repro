@@ -1,0 +1,9 @@
+%{
+  "dialyxir": {:hex, :dialyxir, "1.1.0", "c5aab0d6e71e5522e77beff7ba9e08f8e02bad90dfbeffae60eaf0cb47e29488", [:mix], [{:erlex, ">= 0.2.6", [hex: :erlex, repo: "hexpm", optional: false]}], "hexpm", "07ea8e49c45f15264ebe6d5b93799d4dd56a44036cf42d0ad9c960bc266c0b9a"},
+  "erlex": {:hex, :erlex, "0.2.6", "c7987d15e899c7a2f34f5420d2a2ea0d659682c06ac607572df55a43753aa12e", [:mix], [], "hexpm", "2ed2e25711feb44d52b17d2780eabf998452f6efda104877a3881c2f8c0c0c75"},
+  "erlzmq": {:hex, :erlzmq_dnif, "4.1.0", "f6fab2a98ca8081b7098e1ef62cd5994c7ab133667e042df26ff5807d6de8134", [:rebar3], [], "hexpm", "241fe589d949b3ba47258f37e5482075d728857e2a50ff52c99dcdfd4d9fd435"},
+  "gradualixir": {:git, "https://github.com/overminddl1/gradualixir.git", "60caa8049f3e1b18551642543e7255073f52d366", [ref: "master"]},
+  "gradualizer": {:git, "https://github.com/josefs/Gradualizer.git", "0657d76e7de893a2bd7e49e0fac186b732fea434", [ref: "master"]},
+  "msgpax": {:hex, :msgpax, "2.3.0", "14f52ad249a3f77b5e2d59f6143e6c18a6e74f34666989e22bac0a465f9835cc", [:mix], [{:plug, "~> 1.0", [hex: :plug, repo: "hexpm", optional: true]}], "hexpm", "65c36846a62ed5615baf7d7d47babb6541313a6c0b6d2ff19354bd518f52df7e"},
+  "telemetry": {:hex, :telemetry, "1.0.0", "0f453a102cdf13d506b7c0ab158324c337c41f1cc7548f0bc0e130bbf0ae9452", [:rebar3], [], "hexpm", "73bc09fa59b4a0284efb4624335583c528e07ec9ae76aca96ea0673850aec57a"},
+}
